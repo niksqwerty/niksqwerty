@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- This is Nick
+  - 🔭 I’m currently working on Python Pytorch
+  - 🌱 I’m currently learning Deep Leanring
+  - 👯 I’m looking to collaborate on IOT Projects
+  - 💬 Ask me about - Don't!! Google it. (Private Person alert)
+  - 📫 How to reach me: nik1000@ymail.com
+  - ⚡ Fun fact: There is no fun in facts.. :P
 <!--
 **niksqwerty/niksqwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
